@@ -7,4 +7,4 @@ Use at your own risk!
 
 
 
-Our discord server: https://discord.gg/ZYwBMPXk3H
+If you want help then join our discord server: https://discord.gg/ZYwBMPXk3H
