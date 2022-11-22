@@ -8,7 +8,7 @@ Use at your own risk!
 
 
 
-If you want help then join our discord server: https://discord.gg/ZYwBMPXk3H
+If you want help with our script then contact us in our discord server: https://discord.gg/ZYwBMPXk3H
 
 
 
