@@ -102,8 +102,13 @@ def start():
  os.system('cls') 
  
  
- 
- how_many = int(input("How many messages: "))
+
+ while True:
+     try:
+         how_many = int(input("How many messages: "))
+         break
+     except:
+         print("invalid number")
  
  
  
